@@ -6,4 +6,5 @@
 ## Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardofg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
